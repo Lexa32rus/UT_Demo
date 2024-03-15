@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bfe22a51-644d-4a44-b947-33cf032a9f45">
+  <producedTypes>
+    <refType typeId="6a1b8b8f-e32f-44d1-88d8-c20f9e65b414" valueTypeId="2e59e94d-c77c-489f-9874-e26b923a48c2"/>
+    <listType typeId="abddb02d-af06-469c-b945-86a590b96c20" valueTypeId="eb8698b0-f7bb-4a23-961d-09400da1ec40"/>
+    <managerType typeId="6cd97cb9-3c14-4315-997f-dc4dc549a397" valueTypeId="17e625ba-109a-4c64-a25d-b7107eb067fe"/>
+  </producedTypes>
+  <name>ПлатежныеСистемы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Платежные системы</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="44b155a9-c3a8-4002-b6e9-bf764d7fcc6d">
+    <name>SWiP</name>
+    <synonym>
+      <key>ru</key>
+      <value>SWiP</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="833fba5b-3194-4c5f-88e0-111849f1fc70">
+    <name>СБП_Открытие</name>
+    <synonym>
+      <key>ru</key>
+      <value>Банк &quot;Открытие&quot;</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="482ae8a0-8675-4c42-b96b-1da2b3dc3375">
+    <name>СБП_СКБ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Филиал &quot;Дело&quot; ПАО &quot;СКБ-банк&quot;</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="d1edf9e5-a72b-4f36-b3c3-fe4fadaafda0">
+    <name>СБП_Webmoney</name>
+    <synonym>
+      <key>ru</key>
+      <value>WebMoney (Банк ККБ)</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0853eb77-db7b-462e-8ce8-3b47516666be">
+    <name>СБП_PayMaster</name>
+    <synonym>
+      <key>ru</key>
+      <value>PayMaster (ООО &quot;Пэймастер&quot;)</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="96d5bd7d-c4ef-4917-b70d-a4556f6f1e0c">
+    <name>СБП_Промсвязьбанк</name>
+    <synonym>
+      <key>ru</key>
+      <value>ПАО &quot;Промсвязьбанк&quot;</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="9c5c7a5c-bf52-4e57-b2ac-2985099ae953">
+    <name>УдалитьСБП_Промсвязьбанк</name>
+    <synonym>
+      <key>ru</key>
+      <value>(Не использовать) ПАО &quot;Промсвязьбанк&quot;</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

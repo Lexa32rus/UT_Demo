@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c5141723-5981-4d18-ad7e-b8047fe8c381">
+  <name>ИнтеграцияСМаркетплейсами</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интеграция с маркетплейсами</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.РазделПродажи</picture>
+  </picture>
+  <content>CommonCommand.НастройкиМаркетплейсов</content>
+  <content>Constant.ИспользоватьИнтеграциюСЯндексМаркет</content>
+  <content>DataProcessor.ПанельАдминистированияИнтеграцияСМаркетплейсами</content>
+  <content>CommonTemplate.УспешнаяАвторизация</content>
+  <content>CommonTemplate.НеУспешнаяАвторизация</content>
+  <content>Role.ИспользованиеОбработкиПанельАдминистрированияИнтеграцияСМаркетплейсами</content>
+  <content>Role.ИспользованиеОбработкиПродажиСФулфилментомЯндекса</content>
+  <subsystems>ИнтеграцияСЯндексМаркет</subsystems>
+  <parentSubsystem>Subsystem.ЭлектронноеВзаимодействие</parentSubsystem>
+</mdclass:Subsystem>

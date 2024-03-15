@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9356f3c7-f7c6-4481-a480-d1844f12b64a">
+  <name>ИнтеграцияСЯндексМаркет</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интеграция с ЯндексМаркет</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>FunctionalOption.ИспользоватьИнтеграциюСЯндексМаркет</content>
+  <content>Constant.ИспользоватьИнтеграциюСЯндексМаркет</content>
+  <content>DataProcessor.ЯндексМаркетВитринаФулфилмент</content>
+  <content>CommonModule.ИнтеграцияСЯндексМаркетСервер</content>
+  <content>Role.ИспользованиеОбработкиПродажиСФулфилментомЯндекса</content>
+  <parentSubsystem>Subsystem.ЭлектронноеВзаимодействие.Subsystem.ИнтеграцияСМаркетплейсами</parentSubsystem>
+</mdclass:Subsystem>

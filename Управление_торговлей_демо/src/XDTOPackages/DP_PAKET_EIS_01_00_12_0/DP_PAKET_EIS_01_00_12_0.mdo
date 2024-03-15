@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:XDTOPackage xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16970fcf-d0af-46a4-be88-75a6e8b4178e">
+  <name>DP_PAKET_EIS_01_00_12_0</name>
+  <synonym>
+    <key>ru</key>
+    <value>Схемы для электронного актирования в ЕИС 12.0 итерация 2</value>
+  </synonym>
+  <namespace>DP_PAKET_EIS_01_00_12_0</namespace>
+</mdclass:XDTOPackage>
