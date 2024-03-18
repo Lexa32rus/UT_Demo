@@ -53,4 +53,116 @@
       <extendedConfigurationObject>Checked</extendedConfigurationObject>
     </extension>
   </enumValues>
+  <enumValues uuid="abd58033-0eee-4b99-8df3-e71fdbb8db49" extendedConfigurationObject="10db127e-a377-4878-8ead-955d0ff48e4d">
+    <name>ПоступлениеОплатыОтКлиента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="14762454-c7e3-4bb5-8080-5ee846c24ce9" extendedConfigurationObject="6e69e44b-cbbe-4982-8f26-1be872c32c8c">
+    <name>ПоступлениеДенежныхСредствИзДругойОрганизации</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="e7f57ae1-a314-4a14-b4bf-82c2a803aa98" extendedConfigurationObject="a07305c5-0d5c-4195-8220-2eb29fa05ef5">
+    <name>ВнутренняяПередачаДенежныхСредств</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="b6a1f9a8-0358-4b6e-98d2-39b4823597ff" extendedConfigurationObject="f9500d19-47d4-45e9-b867-8546e73cc587">
+    <name>ПоступлениеДенежныхСредствИзКассыККМ</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="3de4b8a3-68a1-486e-a1ea-3eed17acd44d" extendedConfigurationObject="1cf8111d-9689-46b5-b048-01942b9c91aa">
+    <name>ПоступлениеДенежныхСредствИзДругойКассы</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="2fc610ca-34fd-4d05-8747-2ebe6279c65f" extendedConfigurationObject="39b63e72-b74f-41a5-8d5c-68908eab2196">
+    <name>ПоступлениеДенежныхСредствИзБанка</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="f14a1fe9-865d-49c4-aad8-f696148b540c" extendedConfigurationObject="dadac293-8e2e-4daa-ba9a-ab167dca3f46">
+    <name>ИнкассацияДенежныхСредствИзБанка</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="35b3ac10-114f-4fb6-84d5-f53c05733de1" extendedConfigurationObject="b9fe55ec-e34e-456a-a063-8a1820ff6b8d">
+    <name>ПоступлениеДенежныхСредствПоКредитам</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="e2f8598e-133f-4811-a55f-99261cc847c2" extendedConfigurationObject="4cea7021-99a1-4ae8-b197-4a33688ff882">
+    <name>ПоступлениеДенежныхСредствПоЗаймамВыданным</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="29169489-160b-4094-9b5b-5bcf64952456" extendedConfigurationObject="29c2681f-21ab-4e2a-a0bf-2b3bee568c76">
+    <name>ПогашениеЗаймаСотрудником</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="67372646-3165-479f-9d81-5e52a9ce97e7" extendedConfigurationObject="da785c97-98fb-4ee6-8990-f175fe8496ef">
+    <name>КонвертацияВалюты</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="84dc7c68-ddf4-4369-b65e-8712ac339dbf" extendedConfigurationObject="4ac85485-9869-40c0-8401-4c0baf1156e8">
+    <name>ПрочееПоступлениеДенежныхСредств</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="61932195-bb5e-4be2-b840-961620aa5e41" extendedConfigurationObject="6bce5d35-b51a-4b89-8539-2ac2eb87fa3d">
+    <name>ВозвратДенежныхСредствОтПоставщика</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="2baae519-d489-4c9c-94d9-e8e34dab3f0a" extendedConfigurationObject="d23d95eb-aa25-4f32-9010-be00be4d7215">
+    <name>ВозвратДенежныхСредствОтПодотчетника</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="3fe94d74-1067-447c-a48b-d9b077420171" extendedConfigurationObject="8adc8fdb-3180-4f55-b140-3b1c2a8a3a42">
+    <name>ВозвратДенежныхСредствОтДругойОрганизации</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="dfa1a7c2-60b3-45ad-bf9f-e58cc03489ad" extendedConfigurationObject="865f1a25-35d6-4509-98be-1c0be0897324">
+    <name>ВозвратДенежныхСредствОтАрендодателя</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
 </mdclass:Enum>

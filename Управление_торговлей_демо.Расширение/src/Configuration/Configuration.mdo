@@ -44,6 +44,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <styleItems>StyleItem.ИтогиФон</styleItems>
+  <styleItems>StyleItem.ФонУправляющегоПоля</styleItems>
   <styleItems>StyleItem.ЦветФонаВыделения</styleItems>
   <commonPictures>CommonPicture.ВниманиеКрасный</commonPictures>
   <commonPictures>CommonPicture.ЗаполнитьПоШаблону</commonPictures>
@@ -51,6 +52,7 @@
   <commonPictures>CommonPicture.ЛоготипОсновнойСервисДоставки</commonPictures>
   <commonPictures>CommonPicture.Набор</commonPictures>
   <commonPictures>CommonPicture.Наборы</commonPictures>
+  <commonPictures>CommonPicture.НовостиВнимание</commonPictures>
   <commonPictures>CommonPicture.ОтгрузкаЗапрещена</commonPictures>
   <commonPictures>CommonPicture.Отчеты</commonPictures>
   <commonPictures>CommonPicture.ПревышениеЗаказа</commonPictures>
@@ -58,6 +60,7 @@
   <commonPictures>CommonPicture.СостоянияСтрок</commonPictures>
   <commonPictures>CommonPicture.СтатусыУказанияСерий</commonPictures>
   <roles>Role.Расш2_ОсновнаяРоль</roles>
+  <documents>Document.ПриходныйКассовыйОрдер</documents>
   <documents>Document.РеализацияТоваровУслуг</documents>
   <enums>Enum.ВариантыВыбытияМаркируемойПродукции</enums>
   <enums>Enum.ВариантыОформленияПродажи</enums>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="537a3905-f12e-4e02-9b8c-4cadd084cfe8" extendedConfigurationObject="e16b931a-86b3-413f-a330-7b6f835e2da7">
+  <producedTypes>
+    <objectType typeId="35f355a8-11dd-46ed-8d85-6dc02c9d2591" valueTypeId="fe0e7c46-940d-4c03-b181-b5de4ed92a37"/>
+    <refType typeId="0582469a-4128-45b6-8c27-377800511267" valueTypeId="abb6c1e2-64a1-4cd9-aee8-9e66ad4fd999"/>
+    <selectionType typeId="258fd1ee-fc83-41bb-ac98-9d70130c47f4" valueTypeId="635ff9bb-70c4-4e68-a8af-257b2c119487"/>
+    <listType typeId="fe14f4f0-563b-442c-bd99-138b6e43ef91" valueTypeId="1e8f4677-14ce-436f-bae4-607b825d1626"/>
+    <managerType typeId="a8502f3e-1651-49e5-a811-0e173b5604a5" valueTypeId="bedf1db3-200a-49d1-b910-53942f38044d"/>
+  </producedTypes>
+  <name>ПриходныйКассовыйОрдер</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <forms uuid="c6739831-a834-4447-9a1f-058cc58f7549" extendedConfigurationObject="e9f5a0cf-2a65-411d-be23-f19c3d3cbc7c">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>
